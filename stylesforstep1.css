@@ -1,0 +1,40 @@
+body 
+
+{
+    background-color: lightblue;
+    width: 900px;
+    margin: 0 auto;
+}
+
+#header
+
+    {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14pt;
+    }
+
+#header2
+{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14pt;
+    background-color: darkgrey;
+}
+
+
+
+#column1, #column2, #column3
+{
+width: 31.3%;
+margin: 1%;
+font-size: 14pt;
+font-family: open sans-serif, sans-serif;
+float: left;
+text-align: center;
+background-color: lightgreen;
+}
+
+
+
+
