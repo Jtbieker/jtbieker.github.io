@@ -1,15 +1,31 @@
-body{
+body {
 
-    background-color: lightblue;
-    float: center;
+    background-color: black;
+
+    background-image: url(graphics/UNCWALLPAPER.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 1%;
+    margin-left: 3%;
+    border: solid 2px;
+    border-color: lightblue;
+    padding: 2%;
+    margin-top: 3%;
+
+
+    float: left;
 }
 
-h1
-{
-   
+h1 {
+
     width: 100%;
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: left;
-    color: black;
+    color: white;
+  margin: 2%;
+}
+
+p{
+    font-size: 17px;
 }
